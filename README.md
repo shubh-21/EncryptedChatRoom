@@ -8,7 +8,9 @@ Socket programming is a way of connecting two nodes on a network to communicate 
 2. Bind
 3. Listen
 4. Accpet <br/>
+
 For **Client**, steps are as follows:
+
 1. Socket Creation
 2. Connect
 
